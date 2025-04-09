@@ -1,4 +1,4 @@
-# SR-bot-in-RBPi-zero-w
+# SR-bot-in-RBPi
 A simple Speech to Text and Text to Speech bot, that takes in keyword commands and executes simple services. Coded using Speech recognition and other packages, using Google_SR_API in python.
 
 Tasks available (as per latest updates) :
